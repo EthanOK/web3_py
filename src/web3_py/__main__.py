@@ -1,4 +1,4 @@
-from web3_demo.utils.beacon_proxy import get_beacon_proxy_implementation
+from web3_py.utils.beacon_proxy import get_beacon_proxy_implementation
 
 
 def main():

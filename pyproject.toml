@@ -1,7 +1,7 @@
 [project]
-name = "web3-demo"
+name = "web3_py"
 version = "0.1.0"
-description = ""
+description = "Learn Web3.py"
 authors = [
     {name = "0xEthan",email = "ethanzhang@creditease.cn"}
 ]
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "web3_demo", from = "src"}]
+packages = [{include = "web3_py", from = "src"}]
 
 
 [build-system]

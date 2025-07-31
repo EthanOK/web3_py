@@ -1,0 +1,23 @@
+{
+  "name": "web3_py",
+  "version": "1.0.0",
+  "description": "`poetry install`",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "run": "poetry run python -m web3_py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanOK/web3_py.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanOK/web3_py/issues"
+  },
+  "homepage": "https://github.com/EthanOK/web3_py#readme"
+}

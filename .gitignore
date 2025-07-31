@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 添加这一行来忽略所有 pyc 文件
+*.pyc
